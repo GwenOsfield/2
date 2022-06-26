@@ -3,4 +3,7 @@ title: home
 layout: standard
 ---
 
-home
+# Home
+
+## Hey Dad!
+Why dont you check out the next page
