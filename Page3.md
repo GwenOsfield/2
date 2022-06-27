@@ -1,6 +1,6 @@
 ---
 title: Page3
-layout: stanfard
+layout: standard
 ---
 
 # and a third page!
