@@ -1,4 +1,8 @@
+
 <nav>
-  <a href="https://gwenosfield.github.io/hello-world-2/">Home</a>
-  <a href="https://gwenosfield.github.io/hello-world-2/Page2.html">Page2</a>
+  {% for item in hello-world-2.data.navigation %}
+    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+      {{ item.name }}
+    </a>
+  {% endfor %}
 </nav>
