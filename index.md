@@ -2,7 +2,7 @@
 title: Home
 layout: standard
 ---
-<link type="text/css" rel="stylesheet" href="assets/css/styles.css">
+<link type="text/css" rel="stylesheet" href="/assets/css/styles.css">
 # Home
 
 ## Hey Dad!
