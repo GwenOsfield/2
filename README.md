@@ -1,4 +1,6 @@
 # 2
-despeatly trying to get the nav to work again
+got the navigation working
 
-This is a website i am using to try and figure out why the navigation on my hello world website stopped working
+now testing css
+
+look to gh-pages branch for what works and gh0-pages2 for what im testing
